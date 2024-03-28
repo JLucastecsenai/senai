@@ -1,5 +1,3 @@
-# senai
-trabalho do dia 27/03
 CREATE DATABASE killebyte;
 
 USE killebyte;
